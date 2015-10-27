@@ -11,5 +11,5 @@ import random
 word_file = "words.txt"
 WORDS = open(word_file).read().splitlines()
 word1 = random.choice(WORDS) + '+' + random.choice(WORDS)
-myurl = "http://www.flamingtext.com/net-fu/proxy_form.cgi?imageoutput=true&script=dance-logo&text="+mytext
+myurl = "http://www.flamingtext.com/net-fu/proxy_form.cgi?imageoutput=true&script=dance-logo&text="+word1
 urllib.urlretrieve(myurl, "banner.png")
