@@ -9,6 +9,6 @@ operations and tech words...some of the names can get funny!
 Example: 
 
     user@bash$ python name-generator.py
-    First Choice: Flame BROADWAY
-    Second Choice: White paper NEWMARKET
-    Third Choice: CHESTNUT VIKING
+    Choice 1: visit picadilly
+    Choice 2: satin usb
+    Choice 3: last cactus
